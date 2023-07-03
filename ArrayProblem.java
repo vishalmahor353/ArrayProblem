@@ -21,4 +21,3 @@ public class ArrayProblem {
         System.out.println(Arrays.toString(c));
     }
 }
-s
